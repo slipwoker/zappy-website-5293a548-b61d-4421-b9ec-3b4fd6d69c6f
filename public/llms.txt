@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://be-fit-by-tchelet-5293a548.zappy5.app
+https://example.com
 סטודיו כושר ובריאות לנשים בלבד ביבנה. אימוני כוח, מוטיבציה ועצמאות גופנית לאמהות עסוקות ונשים בגיל 30-40. הצטרפי עכשיו ושני את חייך!
 
 ### שירותים
-https://be-fit-by-tchelet-5293a548.zappy5.app/services
+https://example.com/services
 תוכניות כושר מותאמות אישית לנשים: אימון כושר לנשים אחרי לידה, שיעורי קבוצה ואימונים פרטיים. גלי את השירות שיחזיר לך את הכוח והביטחון העצמי.
 
 ### אודות
-https://be-fit-by-tchelet-5293a548.zappy5.app/about
+https://example.com/about
 טשלט בנתה סטודיו שבו נשים ביבנה מגלות את הכוח האמיתי שלהן. הכירי את הפילוסופיה, הערכים והחזון שהפכו את Studio Koach LaNashim למקום שמשנה חיים.
 
 ### צור קשר
-https://be-fit-by-tchelet-5293a548.zappy5.app/contact
+https://example.com/contact
 רוצה להתחיל אימון כושר לנשים ביבנה? צרי קשר עם Studio Koach LaNashim עוד היום לתיאום שיעור ניסיון חינם. אנחנו כאן בשבילך — בואי נעשה את זה יחד!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://be-fit-by-tchelet-5293a548.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://be-fit-by-tchelet-5293a548.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://be-fit-by-tchelet-5293a548.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://be-fit-by-tchelet-5293a548.zappy5.app/contact
-- Endpoint: https://be-fit-by-tchelet-5293a548.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ A women-only fitness studio called 'Studio Koach LaNashim' (Power Studio for Wom
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://be-fit-by-tchelet-5293a548.zappy5.app/sitemap.xml
-- Robots: https://be-fit-by-tchelet-5293a548.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://be-fit-by-tchelet-5293a548.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

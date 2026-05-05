@@ -2,13 +2,13 @@
 
 A women-only fitness studio called 'Studio Koach LaNashim' (Power Studio for Women), dedicated to empowering women through physical training. The brand identity revolves around strength, empowerment, and female energy, suggesting a bold and motivating atmosphere tailored exclusively for women.
 
-Source: https://be-fit-by-tchelet-5293a548.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תתעוררי לכוח שבך — Be Fit by tchelet
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app
+URL: https://example.com
 Description: סטודיו כושר ובריאות לנשים בלבד ביבנה. אימוני כוח, מוטיבציה ועצמאות גופנית לאמהות עסוקות ונשים בגיל 30-40. הצטרפי עכשיו ושני את חייך!
 
 תתעוררי לכוח שבך — Be Fit by tchelet
@@ -430,7 +430,7 @@ Description: סטודיו כושר ובריאות לנשים בלבד ביבנה
 
 ## האימון שחיכית לו כל חייך — Be Fit by tchelet
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/services
+URL: https://example.com/services
 Description: תוכניות כושר מותאמות אישית לנשים: אימון כושר לנשים אחרי לידה, שיעורי קבוצה ואימונים פרטיים. גלי את השירות שיחזיר לך את הכוח והביטחון העצמי.
 
 האימון שחיכית לו כל חייך — Be Fit by tchelet
@@ -1083,7 +1083,7 @@ HIIT – אינטרוולים עצימים
 
 ## הסיפור מאחורי הכוח שלנו — Be Fit by tchelet
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/about
+URL: https://example.com/about
 Description: טשלט בנתה סטודיו שבו נשים ביבנה מגלות את הכוח האמיתי שלהן. הכירי את הפילוסופיה, הערכים והחזון שהפכו את Studio Koach LaNashim למקום שמשנה חיים.
 
 הסיפור מאחורי הכוח שלנו — Be Fit by tchelet
@@ -1524,7 +1524,7 @@ Description: טשלט בנתה סטודיו שבו נשים ביבנה מגלו�
 
 ## הצעד הראשון לשינוי מתחיל כאן — Be Fit by tchelet
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/contact
+URL: https://example.com/contact
 Description: רוצה להתחיל אימון כושר לנשים ביבנה? צרי קשר עם Studio Koach LaNashim עוד היום לתיאום שיעור ניסיון חינם. אנחנו כאן בשבילך — בואי נעשה את זה יחד!
 
 הצעד הראשון לשינוי מתחיל כאן — Be Fit by tchelet
@@ -1933,7 +1933,7 @@ BE FIT BY TCHELET
 
 ## מדיניות פרטיות
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2132,7 +2132,7 @@ Be Fit by tchelet ("החברה", "אנו", "שלנו") מחויבת להגן ע�
 
 ## הצהרת נגישות
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2340,7 +2340,7 @@ Be Fit by tchelet מחויבת להנגיש את השירותים לכלל הצ�
 
 ## תנאי שימוש
 
-URL: https://be-fit-by-tchelet-5293a548.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
