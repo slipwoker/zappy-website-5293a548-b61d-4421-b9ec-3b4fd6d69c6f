@@ -1,0 +1,79 @@
+# Be Fit by tchelet — Generative Engine Optimization Map
+
+> A women-only fitness studio called 'Studio Koach LaNashim' (Power Studio for Women), dedicated to empowering women through physical training. The brand identity revolves around strength, empowerment, and female energy, suggesting a bold and motivating atmosphere tailored exclusively for women.
+
+---
+
+## Pages
+
+### בית
+https://be-fit-by-tchelet-5293a548.zappy5.app
+סטודיו כושר ובריאות לנשים בלבד ביבנה. אימוני כוח, מוטיבציה ועצמאות גופנית לאמהות עסוקות ונשים בגיל 30-40. הצטרפי עכשיו ושני את חייך!
+
+### שירותים
+https://be-fit-by-tchelet-5293a548.zappy5.app/services
+תוכניות כושר מותאמות אישית לנשים: אימון כושר לנשים אחרי לידה, שיעורי קבוצה ואימונים פרטיים. גלי את השירות שיחזיר לך את הכוח והביטחון העצמי.
+
+### אודות
+https://be-fit-by-tchelet-5293a548.zappy5.app/about
+טשלט בנתה סטודיו שבו נשים ביבנה מגלות את הכוח האמיתי שלהן. הכירי את הפילוסופיה, הערכים והחזון שהפכו את Studio Koach LaNashim למקום שמשנה חיים.
+
+### צור קשר
+https://be-fit-by-tchelet-5293a548.zappy5.app/contact
+רוצה להתחיל אימון כושר לנשים ביבנה? צרי קשר עם Studio Koach LaNashim עוד היום לתיאום שיעור ניסיון חינם. אנחנו כאן בשבילך — בואי נעשה את זה יחד!
+
+## Legal & Policy
+
+### Privacy Policy
+https://be-fit-by-tchelet-5293a548.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://be-fit-by-tchelet-5293a548.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://be-fit-by-tchelet-5293a548.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://be-fit-by-tchelet-5293a548.zappy5.app/contact
+- Endpoint: https://be-fit-by-tchelet-5293a548.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Be Fit by tchelet
+A women-only fitness studio called 'Studio Koach LaNashim' (Power Studio for Women), dedicated to empowering women through physical training. The brand identity revolves around strength, empowerment, and female energy, suggesting a bold and motivating atmosphere tailored exclusively for women.
+
+## Target Audience
+- נשים
+- נשים פעילות בגילאי 30-45
+- אמהות צעירות
+- נשים מודעות לבריאות
+
+## Industry
+כושר ובריאות
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://be-fit-by-tchelet-5293a548.zappy5.app/sitemap.xml
+- Robots: https://be-fit-by-tchelet-5293a548.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://be-fit-by-tchelet-5293a548.zappy5.app/llms-full.txt
