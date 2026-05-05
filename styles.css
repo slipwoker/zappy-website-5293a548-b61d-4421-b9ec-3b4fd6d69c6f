@@ -9151,6 +9151,63 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .nav-cta-btn { color: #333333 !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+.index-hero-section {
+  background: #FDF5F0 !important;
+}
+
+.index-services-section {
+  background: #FFF8F5 !important;
+}
+
+.index-testimonials-section {
+  background: var(--background-color) !important;
+}
+
+.index-cta-section {
+  background: #F7EEE8 !important;
+}
+
+.navbar {
+  background: var(--background-color) !important;
+  border-bottom: 1px solid #E8D5D0 !important;
+}
+
+.nav-menu a, .nav-brand a {
+  color: var(--text-color) !important;
+}
+
+.nav-menu a:hover {
+  color: var(--primary-color) !important;
+}
+
+.nav-cta-btn {
+  background: var(--primary-color) !important;
+  color: #FFFFFF !important;
+  border-color: var(--primary-color) !important;
+}
+
+.site-footer {
+  background: #F2EBE5 !important;
+}
+
+.site-footer, .site-footer p, .site-footer span, .site-footer li, .site-footer a,
+.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4 {
+  color: var(--text-color) !important;
+}
+
+.footer-cta-btn {
+  background: var(--primary-color) !important;
+  color: #FFFFFF !important;
+}
+
+.nav-menu > li > a {
+  color: var(--text-color) !important;
+}
+
+.nav-menu > .nav-item > a {
+  color: var(--text-color) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
