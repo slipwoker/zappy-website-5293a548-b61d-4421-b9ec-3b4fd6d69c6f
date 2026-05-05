@@ -9208,6 +9208,263 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .nav-menu > .nav-item > a {
   color: var(--text-color) !important;
 }
+
+.index-hero-section {
+  background: #FDF5F0 !important;
+}
+
+.index-hero-section .index-hero-bg img {
+  opacity: 0.12 !important;
+}
+
+.index-hero-section .index-hero-vignette,
+.index-hero-section .index-hero-scrim {
+  opacity: 0 !important;
+  display: none !important;
+}
+
+.index-hero-section .index-hero-neon-bar {
+  opacity: 0 !important;
+}
+
+.index-hero-section .index-hero-h1 {
+  color: var(--text-color) !important;
+}
+
+.index-hero-section .index-hero-subtitle {
+  color: #4A3535 !important;
+}
+
+.index-hero-section .index-hero-eyebrow {
+  color: var(--text-secondary-color) !important;
+}
+
+.index-hero-section .index-hero-stat-number {
+  color: var(--text-color) !important;
+}
+
+.index-hero-section .index-hero-stat-label {
+  color: var(--text-secondary-color) !important;
+}
+
+.index-hero-section .index-hero-accent {
+  color: var(--primary-color) !important;
+}
+
+.index-hero-section .index-hero-stat-divider {
+  background: #C4A8A8 !important;
+}
+
+.index-hero-section .index-hero-underline {
+  background: var(--primary-color) !important;
+}
+
+.index-hero-section .index-hero-btn-primary {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+  border-color: var(--primary-color) !important;
+}
+
+.index-hero-section .index-hero-btn-secondary {
+  border-color: var(--primary-color) !important;
+  color: var(--primary-color) !important;
+  background: transparent !important;
+}
+
+.index-hero-section .index-hero-divider-wrapper svg path {
+  fill: #FFF8F5 !important;
+}
+
+.index-services-section {
+  background: #FFF8F5 !important;
+}
+
+.index-services-section .iss-heading {
+  color: var(--text-color) !important;
+}
+
+.index-services-section .iss-heading-highlight {
+  color: var(--primary-color) !important;
+}
+
+.index-services-section .iss-intro {
+  color: #4A3535 !important;
+}
+
+.index-services-section .iss-label {
+  color: #9E7C7C !important;
+}
+
+.index-services-section .iss-service-block {
+  background: #FFFFFF !important;
+  border: 1px solid #E8D5D0 !important;
+}
+
+.index-services-section .iss-service-title {
+  color: var(--text-color) !important;
+}
+
+.index-services-section .iss-service-desc {
+  color: #4A3535 !important;
+}
+
+.index-services-section .iss-service-icon {
+  color: var(--primary-color) !important;
+}
+
+.index-services-section .iss-service-benefit {
+  color: var(--secondary-color) !important;
+}
+
+.index-services-section .iss-separator {
+  background: #E8D5D0 !important;
+}
+
+.index-services-section .iss-cta-btn {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+  border-color: var(--primary-color) !important;
+}
+
+.index-services-section .iss-divider-wrapper svg polygon {
+  fill: var(--background-color) !important;
+}
+
+.index-services-section .iss-img-badge {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+}
+
+.index-services-section .iss-accent-rule {
+  background: var(--primary-color) !important;
+}
+
+.index-testimonials-section {
+  background: var(--background-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-title {
+  color: var(--text-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-title-accent {
+  color: var(--primary-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-subtitle {
+  color: #4A3535 !important;
+}
+
+.index-testimonials-section .index-testimonials-eyebrow {
+  color: #9E7C7C !important;
+}
+
+.index-testimonials-section .index-testimonials-card {
+  background: #FFFFFF !important;
+  border: 1px solid #E8D5D0 !important;
+  box-shadow: 0 4px 20px rgba(180,120,120,0.08) !important;
+}
+
+.index-testimonials-section .index-testimonials-card--featured {
+  background: #FFF0F3 !important;
+}
+
+.index-testimonials-section .index-testimonials-quote {
+  color: var(--text-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-quote-mark {
+  color: #E8C4C4 !important;
+}
+
+.index-testimonials-section .index-testimonials-stars i {
+  color: var(--primary-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-member-name {
+  color: var(--text-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-member-desc {
+  color: var(--text-secondary-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-member-avatar {
+  background: #E8C4C4 !important;
+  color: var(--text-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-member-avatar--featured {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+}
+
+.index-testimonials-section .index-testimonials-featured-badge {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+}
+
+.index-testimonials-section .index-testimonials-proof-item {
+  background: var(--surface-color) !important;
+  border: 1px solid #E8D5D0 !important;
+}
+
+.index-testimonials-section .index-testimonials-proof-text {
+  color: var(--text-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-proof-icon i {
+  color: var(--primary-color) !important;
+}
+
+.index-testimonials-section .index-testimonials-divider-wrapper svg path {
+  fill: #F7EEE8 !important;
+}
+
+.index-cta-section {
+  background: #F7EEE8 !important;
+}
+
+.index-cta-section .index-cta-heading {
+  color: var(--text-color) !important;
+}
+
+.index-cta-section .index-cta-heading-highlight {
+  color: var(--primary-color) !important;
+}
+
+.index-cta-section .index-cta-subtext {
+  color: #4A3535 !important;
+}
+
+.index-cta-section .index-cta-trust {
+  color: var(--text-secondary-color) !important;
+}
+
+.index-cta-section .index-cta-glow {
+  opacity: 0.05 !important;
+}
+
+.index-cta-section .index-cta-btn--primary {
+  background: var(--primary-color) !important;
+  color: #fff !important;
+  border-color: var(--primary-color) !important;
+}
+
+.index-cta-section .index-cta-btn--secondary {
+  border-color: var(--primary-color) !important;
+  color: var(--primary-color) !important;
+  background: transparent !important;
+}
+
+.index-cta-section .index-cta-accent-rule {
+  background: var(--primary-color) !important;
+}
+
+.navbar {
+  background: var(--background-color) !important;
+  border-bottom: 1px solid #E8D5D0 !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
